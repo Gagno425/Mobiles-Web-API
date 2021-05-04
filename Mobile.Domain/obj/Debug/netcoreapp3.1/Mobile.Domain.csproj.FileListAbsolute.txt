@@ -1,0 +1,12 @@
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\bin\Debug\netcoreapp3.1\Mobile.Domain.deps.json
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\bin\Debug\netcoreapp3.1\Mobile.Domain.runtimeconfig.json
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\bin\Debug\netcoreapp3.1\Mobile.Domain.runtimeconfig.dev.json
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\bin\Debug\netcoreapp3.1\Mobile.Domain.dll
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\bin\Debug\netcoreapp3.1\Mobile.Domain.pdb
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\obj\Debug\netcoreapp3.1\Mobile.Domain.csprojAssemblyReference.cache
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\obj\Debug\netcoreapp3.1\Mobile.Domain.AssemblyInfoInputs.cache
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\obj\Debug\netcoreapp3.1\Mobile.Domain.AssemblyInfo.cs
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\obj\Debug\netcoreapp3.1\Mobile.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\obj\Debug\netcoreapp3.1\Mobile.Domain.dll
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\obj\Debug\netcoreapp3.1\Mobile.Domain.pdb
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Domain\obj\Debug\netcoreapp3.1\Mobile.Domain.genruntimeconfig.cache

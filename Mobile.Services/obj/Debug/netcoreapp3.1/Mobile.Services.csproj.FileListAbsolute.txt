@@ -1,0 +1,15 @@
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\bin\Debug\netcoreapp3.1\Mobile.Services.deps.json
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\bin\Debug\netcoreapp3.1\Mobile.Services.runtimeconfig.json
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\bin\Debug\netcoreapp3.1\Mobile.Services.runtimeconfig.dev.json
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\bin\Debug\netcoreapp3.1\Mobile.Services.dll
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\bin\Debug\netcoreapp3.1\Mobile.Services.pdb
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.csprojAssemblyReference.cache
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.AssemblyInfoInputs.cache
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.AssemblyInfo.cs
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.csproj.CoreCompileInputs.cache
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.dll
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.pdb
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.genruntimeconfig.cache
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\bin\Debug\netcoreapp3.1\Mobile.Domain.dll
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\bin\Debug\netcoreapp3.1\Mobile.Domain.pdb
+C:\Users\gagni\Desktop\MobileWebAPI\Mobile.Services\obj\Debug\netcoreapp3.1\Mobile.Services.csproj.CopyComplete
